@@ -63,11 +63,5 @@ If you’d like to connect or collaborate:
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**.  
-You can view, modify, or use it for inspiration with attribution.  
-
----
-
 ✨ Crafted with passion & code by **Lakhan Sharma**  
 *Building a professional online presence through modern web development.*
